@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #E8F5E9; /* Light green background */
+}
+
+header {
+    background-color: #C8E6C9; /* Light green for header */
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4CAF50; /* Dark green for logo */
+    text-decoration: none;
+}
+
+nav a {
+    color: #2E8B57; /* Darker green for navigation links */
+}
+
+.hero {
+    background-color: #C8E6C9; /* Light green for hero section */
+    padding: 50px 0;
+    text-align: center;
+}
+
+.article-item, .news-item, .category-item {
+    background-color: #fff; /* White for article cards */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #1B5E20; /* Dark green for footer */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.jejak-alam-bar {
+  background-color: #C8E6C9; /* Light green for the bar */
+  padding: 20px 0;
+  text-align: center;
+  margin-bottom: 20px; /* Add some space below the bar */
+}
+
+.jejak-alam-bar h1 {
+  color: #4CAF50; /* Dark green for the text */
+  font-size: 36px;
+  font-weight: bold;
+}
